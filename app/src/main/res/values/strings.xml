@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lista de Compras</string>
+    <string name="titulo">Produtos</string>
+    <string name="produto1">Arroz - R$ 15.49</string>
+    <string name="produto2">Feijão - R$ 6.99</string>
+    <string name="produto3">Macarrão - R$ 1.89</string>
+    <string name="produto4">Salsicha - R$ 9.19</string>
+    <string name="produto5">Batata - R$ 3.97</string>
+    <string name="produto6">Maçã - R$ 4.44</string>
+    <string name="btnCalcular">CALCULAR</string>
+    <string name="tituloCalculo">Valor da compra</string>
+</resources>
